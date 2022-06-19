@@ -1,0 +1,14 @@
+[
+  {
+    "songname": "Peaches",
+    "artist": "Justen Bieber ft. Daniel Caesar" ,
+    "type": "Pop" ,
+    "imagelink": "R.drawable.peaches"
+  },
+  {
+    "songname": "Peaches",
+    "artist": "Justen Bieber ft. Daniel Caesar" ,
+    "type": "Rock" ,
+    "imagelink": "R.drawable.peaches"
+  }
+]

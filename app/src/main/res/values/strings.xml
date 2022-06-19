@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SoundHub</string>
+    <string name="slogan">l e t t h e s o u n d s p e a k</string>
+    <string name="appname">S o u n d H u b</string>
+    <string name="get_started">Get started</string>
+    <string name="facebook_app_id">277430577694650</string>
+    <string name="fb_login_protocol_scheme">fb277430577694650</string>
+</resources>
